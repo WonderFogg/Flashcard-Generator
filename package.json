@@ -1,0 +1,26 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "flashcard-generator",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WonderFogg/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "flashcard"
+  ],
+  "author": "joe fogg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WonderFogg/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/WonderFogg/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "request": "^2.83.0"
+  }
+}
